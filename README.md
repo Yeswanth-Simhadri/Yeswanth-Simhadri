@@ -50,11 +50,13 @@
 ### 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yeswanth-simhadri-743699289/)  
-- 💌 *Email:* yeswanth1704@gmail.com  
+- 💌 *Email:* yeswanth1704@gmail.com
+-  🌍 [Portifolio](https://yeswanthsimhadri.vercel.app/)
 - 💻 [GitHub](https://github.com/Yeswanth-Simhadri)  
 - 🧠 [LeetCode](https://leetcode.com/u/yeswanth1704/)  
 - 🌍 [Wanderlust Project](https://github.com/Yeswanth-Simhadri/wanderlust-project)  
 - 🌍 [AIconomy Project](https://github.com/Yeswanth-Simhadri/AIconomy)
+
 
 ---
 
