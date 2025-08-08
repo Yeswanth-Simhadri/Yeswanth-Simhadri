@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Yeswanth Simhadri</h1>
 
 <p align="center">
-  🎓 B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 8.94 <br/>
-  ☁ AWS Cloud Intern @ HashTek | 🧠 100+ LeetCode Problems Solved | 👨‍💻 Full-Stack & AI Enthusiast
+  🎓 B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 9.30 <br/>
+  ☁ AWS Cloud Intern @ HashTek | 🧠 200+ LeetCode Problems Solved | 👨‍💻 Full-Stack & AI Enthusiast
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 💻 *Languages:* Python | Java | C | JavaScript  
 - 🌐 *Web Development:* React | Node.js | Express.js | Bootstrap | HTML | CSS  
-- 🧰 *Tools & Platforms:* Git | GitHub | Prisma | ClearK | ServiceNow (Admin & App Dev)  
+- 🧰 *Tools & Platforms:* Git | GitHub  | Power BI | ServiceNow (Admin & App Dev)  
 - ☁ *Cloud:* AWS (EC2, S3, IAM, VPN, Load Balancers)  
 - 🧪 *Machine Learning & Data:* scikit-learn | pandas | numpy | matplotlib | Streamlit  
 - 🗃 *Databases:* MongoDB | MySQL
@@ -41,7 +41,7 @@
 
 ### 🏆 Achievements
 
-- ✅ **LeetCode:** Solved 100+ coding problems  
+- ✅ **LeetCode:** Solved 200+ coding problems  
 - 🧑‍💼 **Leadership:** Led mini project team to successful completion  
 - 🎤 **Event Coordination:** Organized Paper Presentation @ STEPCONE 2025 (50+ participants)
 
